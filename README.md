@@ -20,7 +20,10 @@ Soy un estudiante de Desarrollo Interactivo de Software y Videojuegos. Vivo en l
 
 - Little Bear´s Kindergarten.
 - Escape the Dungeon.
-- 
+- Penguin Life
+- Tienda Digital en JS
+- Contra en 3D
+- Knight Nightmares
 <h3> Contactame </h3>
 
 - <a href="https://www.instagram.com/hec.otero713/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hec.otero713/" height="30" width="40" /></a>
